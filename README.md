@@ -1,1 +1,1 @@
-# wdds-reddit
+# wdds-battle-subreddits
